@@ -1,0 +1,9 @@
+streamlit
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+langchain-google-genai
+sentence-transformers
+pypdf
+docx2txt
